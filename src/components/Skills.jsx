@@ -58,8 +58,16 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
                   <p className='my-4'>MONGO DB</p>
               </div>
-              
-              
+
+            <div>
+                <p>
+
+
+
+                    
+                </p>
+
+            </div>
           </div>
       </div>
     </div>
