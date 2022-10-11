@@ -27,15 +27,7 @@ const Home = () => {
             </span>
             
           </button>
-          <button className="button">
-  <a
-     className="button"
-     href="src\assets\resume.pdf"
-     download
-     >
-    Download Resume
-  </a>
-</button>
+          
         </div>
       </div>
     </div>
