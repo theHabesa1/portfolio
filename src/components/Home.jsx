@@ -25,7 +25,17 @@ const Home = () => {
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
+            
           </button>
+          <button className="button">
+  <a
+     className="button"
+     href="src\assets\resume.pdf"
+     download
+     >
+    Download Resume
+  </a>
+</button>
         </div>
       </div>
     </div>
